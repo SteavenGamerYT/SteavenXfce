@@ -1,4 +1,4 @@
-echo Updateing the cash
+echo Updateing the cache
 sudo apt update
 echo Installing Xfce4 Gdm3 Neofetch
 sudo apt install xfce4 gdm3 neofetch -y
@@ -15,3 +15,4 @@ sudo apt purge snapd -y
 echo Gota clean 9ml packages now
 sudo apt autoremove --purge -y 
 echo done pls restart dont dm me if your system dead bye
+echo just a joke it wont die
